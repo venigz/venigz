@@ -22,7 +22,7 @@
 	📞 Connect with me
 <p align="left">
 <a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" height="32" width="32" /></a> &nbsp;
-<a href="https://discord.com/users/716982970266812417/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DsfQvAepvT" height="34" width="34" /></a>
+<a href="https://discord.com/users/716982970266812417/" target="blank"><img align="center" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" alt="DsfQvAepvT" height="34" width="34" /></a>
 </p>
 
 	🔧 Programs
