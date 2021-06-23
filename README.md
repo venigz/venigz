@@ -22,15 +22,15 @@
 	📞 Connect with me
 <p align="left">
 <a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" height="32" width="32" /></a> &nbsp;
-<a href="https://discord.com/users/716982970266812417/" target="blank"><img align="center" src="https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl" alt="DsfQvAepvT" height="34" width="34" /></a>
+<a href="https://discord.com/users/716982970266812417/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111370.png" alt="DsfQvAepvT" height="34" width="34" /></a>
 </p>
 
 	🔧 Programs
 <p align="left">
 <a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" height="32" width="32" /></a> &nbsp;
 <a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="DsfQvAepvT" height="34" width="34" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://icrawl.gallerycdn.vsassets.io/extensions/icrawl/discord-vscode/5.6.3/1618860382808/Microsoft.VisualStudio.Services.Icons.Default" alt="DsfQvAepvT" height="34" width="34" /></a> &nbsp
-<a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="DsfQvAepvT" height="34" width="34" /></a>
+<a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="DsfQvAepvT" height="34" width="34" /></a> &nbsp
+<a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="DsfQvAepvT" height="34" width="34" /></a>
 </p>
 
 	📃 Languages and Tools
