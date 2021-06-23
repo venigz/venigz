@@ -15,7 +15,9 @@
 	📄 Know about my experiences
 • **[https://dev.venigz.pl](https://dev.venigz.pl)**
 
+<br>
 <hr>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
