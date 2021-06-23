@@ -27,7 +27,7 @@
 
 	🔧 Programs
 <p align="left">
-<a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://camo.githubusercontent.com/ffcec5dc2c0b1c2f968fa8965c791a8a45c285c85b1ff36c0ab0a8689c5f8ebb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c696a5f496465612d4635303036393f7374796c653d666c61742d737175617265266c6f676f3d696e74656c6c696a2d69646561" alt="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="https://www.youtube.com/channel/ucyhuqc2uqhyquk_oujwjvaw" height="30" width="40" /></a>
 <a href="https://discord.com/users/716982970266812417/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DsfQvAepvT" height="30" width="40" /></a>
 </p>
 
