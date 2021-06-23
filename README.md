@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venigz&label=Profile%20views&color=0e75b6&style=flat" alt="venigz" /> </p>
 
 	- 🔭 I’m currently working on
-**[xnyBot.pl](https://xnybot.pl)**
+- **[xnyBot.pl](https://xnybot.pl)**
 	
-	- 👨‍💻 All of my projects are available at **[https://venigz.pl](https://venigz.pl)**
+	- 👨‍💻 All of my projects are available at
+-  **[https://venigz.pl](https://venigz.pl)**
 		
 	- 📫 Contact me using discord **venigz#1090**
 	
