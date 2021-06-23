@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **[xnyBot.pl](https://xnybot.pl)**
 
-- 👨‍💻 All of my projects are available at [https://venigz.pl](https://venigz.pl)
+- 👨‍💻 All of my projects are available at **[https://venigz.pl](https://venigz.pl)**
 
 - 📫 Contact me using discord **venigz#1090**
 
-- 📄 Know about my experiences [https://dev.venigz.pl](https://dev.venigz.pl)
+- 📄 Know about my experiences **[https://dev.venigz.pl](https://dev.venigz.pl)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
