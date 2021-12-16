@@ -7,7 +7,7 @@
 • **[dezzy.pro](https://dezzy.pro/)**
 	
 	👨‍💻 All of my projects are available at
-• **[https://dezzy.pro/(https://dezzy.pro/)**
+• **[https://dezzy.pro/](https://dezzy.pro/)**
 		
 	📫 Contact me using discord
 • **[venigz#3308](https://discord.com/users/875149437649977406/)**
