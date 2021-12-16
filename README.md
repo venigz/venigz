@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venigz&label=Profile%20views&color=0e75b6&style=flat" alt="venigz" /> </p>
 
 	🔭 I’m currently working on
-• **[xnyBot.pl](https://xnybot.pl)**
+• **[dezzy.pro](https://dezzy.pro/)**
 	
 	👨‍💻 All of my projects are available at
-• **[https://venigz.pl](https://venigz.pl)**
+• **[https://dezzy.pro/(https://dezzy.pro/)**
 		
 	📫 Contact me using discord
-• **[venigz#1090](https://discord.com/users/716982970266812417/)**
+• **[venigz#3308](https://discord.com/users/875149437649977406/)**
 	
 	📄 Know about my experiences
-• **[https://dev.venigz.pl](https://dev.venigz.pl)**
+• **[https://dev.dezzy.pro](https://dev.dezzy.pro/)**
 
 <br>
 <hr>
